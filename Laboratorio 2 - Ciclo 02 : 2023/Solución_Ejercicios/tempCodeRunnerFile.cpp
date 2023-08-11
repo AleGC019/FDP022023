@@ -1,0 +1,1 @@
+|| letra == 'e' || letra == 'i' || letra == 'o' || letra == 'u'
